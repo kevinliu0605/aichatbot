@@ -34,4 +34,5 @@ In this project, we are building a Large Language Model Chatbot focused on super
 **Format**:
 ```plaintext
 <s>[INS]@AI.<question>Q: {Question}</question>[/INS]<answer>A: {Answer}</answer></s>
-```plaintext
+
+**Usage**: Provide training data for the model to learn from structured Q&A pairs.
